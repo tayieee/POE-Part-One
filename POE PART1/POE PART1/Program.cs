@@ -15,7 +15,7 @@ internal class Program
             Console.WriteLine("Press 3 to Scale the recipe"); 
             Console.WriteLine("Press 4 to Reset your quantities"); 
             Console.WriteLine("Press 5 to Clear your recipe");  
-            Console.WriteLine("Press 6 to Exit your recipe"); 
+            Console.WriteLine("Press 6 to Exit your recipe");  
             Console.WriteLine("=========================================");
 
             string ans = Console.ReadLine();
