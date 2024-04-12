@@ -8,7 +8,7 @@ internal class Program
         Recipe recipe = new Recipe();
         while (true)
         {
-            // Dsiplay menu options and handle useer input
+            // Dsiplay menu options and handle useer input 
             Console.WriteLine("=========================================");
             Console.WriteLine("Press 1 to Enter your recipe details");
             Console.WriteLine("Press 2 to Display the recipe");
