@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         // Creating a new Recioe object
-        Recipe recipe = new Recipe();
+        Recipe recipe = new Recipe(); 
         while (true)
         {
             // Dsiplay menu options and handle useer input 
