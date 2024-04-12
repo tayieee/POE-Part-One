@@ -11,10 +11,10 @@ internal class Program
             // Dsiplay menu options and handle useer input 
             Console.WriteLine("=========================================");
             Console.WriteLine("Press 1 to Enter your recipe details");
-            Console.WriteLine("Press 2 to Display the recipe");
-            Console.WriteLine("Press 3 to Scale the recipe");
-            Console.WriteLine("Press 4 to Reset your quantities");
-            Console.WriteLine("Press 5 to Clear your recipe");
+            Console.WriteLine("Press 2 to Display the recipe"); 
+            Console.WriteLine("Press 3 to Scale the recipe"); 
+            Console.WriteLine("Press 4 to Reset your quantities"); 
+            Console.WriteLine("Press 5 to Clear your recipe"); 
             Console.WriteLine("Press 6 to Exit your recipe");
             Console.WriteLine("=========================================");
 
