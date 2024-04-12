@@ -27,7 +27,7 @@ internal class Program
                 case "2":
                     recipe.RecipeDisplay();
                     break;
-                case "3":
+                case "3": 
                     Console.WriteLine("Enter a scale of 0.5, 2 or 3");
                     double scale1 = Convert.ToDouble(Console.ReadLine());
                     recipe.RecipeScale(scale1);
