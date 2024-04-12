@@ -21,7 +21,7 @@ internal class Program
             string ans = Console.ReadLine();
             switch (ans)
             {
-                case "1":
+                case "1": 
                     recipe.EnterData();
                     break;
                 case "2":
