@@ -9,7 +9,7 @@ internal class Program
         while (true)
         {
             // Dsiplay menu options and handle useer input  
-            Console.WriteLine("=========================================");
+            Console.WriteLine("========================================="); 
             Console.WriteLine("Press 1 to Enter your recipe details");
             Console.WriteLine("Press 2 to Display the recipe"); 
             Console.WriteLine("Press 3 to Scale the recipe"); 
