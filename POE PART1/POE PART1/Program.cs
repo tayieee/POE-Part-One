@@ -43,7 +43,7 @@ internal class Program
                     break;
 
                 default:
-                    Console.WriteLine("Wrong value. Please try again");
+                    Console.WriteLine ("Wrong value. Please try again");
                     break;
 
             }
